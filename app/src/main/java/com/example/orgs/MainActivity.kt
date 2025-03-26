@@ -1,5 +1,7 @@
 package com.example.orgs
 
-class MainActivity {
+import android.app.Activity
+
+class MainActivity : Activity {
 
 }
